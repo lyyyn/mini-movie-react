@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mini-movie-react/static/css/main.5f361e03.chunk.css",
-    "main.js": "/mini-movie-react/static/js/main.c8d41a83.chunk.js",
-    "main.js.map": "/mini-movie-react/static/js/main.c8d41a83.chunk.js.map",
+    "main.js": "/mini-movie-react/static/js/main.25524e5f.chunk.js",
+    "main.js.map": "/mini-movie-react/static/js/main.25524e5f.chunk.js.map",
     "runtime-main.js": "/mini-movie-react/static/js/runtime-main.c5590d58.js",
     "runtime-main.js.map": "/mini-movie-react/static/js/runtime-main.c5590d58.js.map",
     "static/js/2.32982e54.chunk.js": "/mini-movie-react/static/js/2.32982e54.chunk.js",
     "static/js/2.32982e54.chunk.js.map": "/mini-movie-react/static/js/2.32982e54.chunk.js.map",
     "index.html": "/mini-movie-react/index.html",
-    "precache-manifest.6924ed7e3c5479976cd322fda71be2ed.js": "/mini-movie-react/precache-manifest.6924ed7e3c5479976cd322fda71be2ed.js",
+    "precache-manifest.a38e1f518fbc343401a9469a02d2e8e9.js": "/mini-movie-react/precache-manifest.a38e1f518fbc343401a9469a02d2e8e9.js",
     "service-worker.js": "/mini-movie-react/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/mini-movie-react/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.32982e54.chunk.js.LICENSE.txt": "/mini-movie-react/static/js/2.32982e54.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.c5590d58.js",
     "static/js/2.32982e54.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.c8d41a83.chunk.js"
+    "static/js/main.25524e5f.chunk.js"
   ]
 }
